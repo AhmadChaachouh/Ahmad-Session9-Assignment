@@ -1,0 +1,24 @@
+{
+  "configurations": [
+    {
+      "browse": {
+        "databaseFilename": "${default}",
+        "limitSymbolsToIncludedHeaders": false
+      },
+      "includePath": [
+        "/home/ahmad/Navi_WS/install/navigation_interfaces/include/**",
+        "/opt/ros/humble/include/**",
+        "/home/ahmad/Navi_WS/src/navigation_interfaces/include/**",
+        "/home/ahmad/Navi_WS/src/omniverse_navigation/include/**",
+        "/home/ahmad/Navi_WS/src/turtlebot3_navigation_cpp/include/**",
+        "/usr/include/**"
+      ],
+      "name": "ROS",
+      "intelliSenseMode": "gcc-x64",
+      "compilerPath": "/usr/bin/gcc",
+      "cStandard": "gnu11",
+      "cppStandard": "c++14"
+    }
+  ],
+  "version": 4
+}

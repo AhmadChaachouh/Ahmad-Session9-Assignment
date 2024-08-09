@@ -1,0 +1,4 @@
+float64 request  # This is just a placeholder if no data is needed in the request
+---
+float64 distance  # The distance to the closest wall
+float64 angle     # The angle at which the closest wall is located
